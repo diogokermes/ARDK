@@ -2,16 +2,33 @@
 	color:white;
 	font-size: 300%;
 }
+.tags{
+	line-height:30px;
+	background-color:gray;
+	color:yellow;
+	height:40px;
+	width:600px;
+	float:center-left;
+	padding:5px;
+	
+}
+.tam{
+	font-size:150%;
+	color:yellow;
+}
+p{
+	color: yellow;
+}
 header{
 	background-color:black;
 	color:White;
 	text-align:center;
-	padding:20px;
+	padding:30px;
 }
 nav{
 	line-height:30px;
 	background-color:gray;
-	color:yellow;
+	color:white;
 	height:680px;
 	width:300px;
 	float:left;
@@ -36,11 +53,11 @@ footer{
 	padding:8px;
 }
 .dk{
-	width:80px;
-	height:120px;
+	width:100px;
+	height:140px;
 }
 .ardk{
 	float:left;
-	width:120px;
-	height:120px;
+	width:130px;
+	height:130px;
 }

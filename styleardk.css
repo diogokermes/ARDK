@@ -13,10 +13,7 @@
 	font-size:130%;
 	
 }
-section a{
-	color:white;
-	text-decoration:none;
-}
+
 .tam{
 	font-size:150%;
 	color:yellow;
@@ -27,6 +24,7 @@ p{
 	text-align:justify;
 
 }
+
 header{
 	background-color:black;
 	color:White;
@@ -54,7 +52,10 @@ section{
 	padding:5px;
 	
 }
-
+section a{
+	color:white;
+	text-decoration:none;
+}
 footer{
 	background-color:black;
 	color:white;

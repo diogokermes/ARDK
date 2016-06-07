@@ -4,20 +4,28 @@
 }
 .tags{
 	line-height:30px;
-	background-color:gray;
+	background-color:#303030;
 	color:yellow;
 	height:40px;
-	width:600px;
+	width:885px;
 	float:center-left;
 	padding:5px;
+	font-size:130%;
 	
+}
+section a{
+	color:white;
+	text-decoration:none;
 }
 .tam{
 	font-size:150%;
 	color:yellow;
 }
 p{
-	color: yellow;
+	color: black;
+	text-align:160%;
+	text-align:justify;
+
 }
 header{
 	background-color:black;
@@ -36,6 +44,7 @@ nav{
 
 }
 nav a{
+	text-align:center;
 	color:white;
 	text-decoration:none;
 }
@@ -49,8 +58,9 @@ footer{
 	background-color:black;
 	color:white;
 	clear:both;
-	text-align:center;
+	text-align:right;
 	padding:8px;
+	font-size:80%;
 }
 .dk{
 	width:100px;

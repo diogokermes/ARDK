@@ -23,7 +23,7 @@ section a{
 }
 p{
 	color: black;
-	text-align:160%;
+	font-size:130%;
 	text-align:justify;
 
 }
@@ -52,6 +52,7 @@ section{
 	width:600px;
 	float:left;
 	padding:5px;
+	
 }
 
 footer{
@@ -63,11 +64,16 @@ footer{
 	font-size:80%;
 }
 .dk{
-	width:100px;
-	height:140px;
+	width:120px;
+	height:180px;
+	float:right;
 }
 .ardk{
 	float:left;
 	width:130px;
 	height:130px;
+}
+.dkvo{
+	float: center;
+	text-align:center;
 }
